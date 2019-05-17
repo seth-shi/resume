@@ -1,13 +1,4 @@
-<!DOCTYPE html><!--[if IE]>  <html class="ie"> <![endif]-->
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>
-		</title>
-		<link rel="stylesheet" type="text/css" href="assets/style.css" />
-	</head>
-	<body>
-		<div class="stl_02">
+<div class="stl_02">
 			<div class="stl_03">
 				<object data="assets/img_05.svg" type="image/svg+xml" class="stl_04" style="position:absolute; width:51.25em; height:72.5em;">
 					<embed src="assets/img_05.svg" type="image/svg+xml" />
@@ -48,8 +39,8 @@
 					<div class="stl_01 stl_07" style="left:20.8546em;top: 23.1548em; "><span class="stl_12 stl_09 stl_10">工作经验 &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:19.0439em;top: 23.8443em; "><span class="stl_13 stl_14 stl_10"></span></div>
 					<div class="stl_01 stl_07" style="left:3.559em;top: 24.0507em; z-index:47; "><span class="stl_19 stl_09 stl_20">15678904596 &nbsp;</span></div>
-					<div class="stl_01 stl_07" style="left:3.559em;top: 26.1112em; z-index:64; "><a href="mailto:1033404553@qq.com" target="_blank"><span class="stl_19 stl_09 stl_24">1033404553@qq.com &nbsp;</span></a></div>
-					<div class="stl_01 stl_07" style="left:3.559em;top: 28.1717em; z-index:81; "><a href="http://www.shiguopeng.cn" target="_blank"><span class="stl_19 stl_09 stl_25">www.shiguopeng.cn &nbsp;</span></a></div>
+					<div class="stl_01 stl_07" style="left:3.559em;top: 26.1112em; z-index:64; ">[<span class="stl_19 stl_09 stl_24">1033404553@qq.com &nbsp;</span>](mailto:1033404553@qq.com)</div>
+					<div class="stl_01 stl_07" style="left:3.559em;top: 28.1717em; z-index:81; ">[<span class="stl_19 stl_09 stl_25">www.shiguopeng.cn &nbsp;</span>](http://www.shiguopeng.cn)</div>
 					<div class="stl_01 stl_07" style="left:3.559em;top: 30.2321em; "><span class="stl_19 stl_09 stl_26">github.com/davidnineroc &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:18.8566em;top: 25.9863em; "><span class="stl_21 stl_09 stl_27">2017.12-至今 &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:18.8566em;top: 27.4224em; z-index:301; "><span class="stl_11 stl_09 stl_15" style="word-spacing:-0.0008em;">PHP 工程师 &nbsp;</span></div>
@@ -80,15 +71,13 @@
 					<div class="stl_01 stl_07" style="left:10.5522em;top: 49.7131em; z-index:157; "><span class="stl_19 stl_09 stl_45">jQuery &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:20.7922em;top: 52.9382em; "><span class="stl_12 stl_09 stl_10">作品展示 &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:19.0439em;top: 53.6902em; "><span class="stl_13 stl_14 stl_10"></span></div>
-					<div class="stl_01 stl_07" style="left:19.2312em;top: 57.1434em; z-index:799; "><a href="http://github.com/laravel/framework/pull/24168" target="_blank"><span class="stl_46 stl_09 stl_47">github.com/laravel/framework/pull/24168 &nbsp;</span></a></div>
+					<div class="stl_01 stl_07" style="left:19.2312em;top: 57.1434em; z-index:799; ">[<span class="stl_46 stl_09 stl_47">github.com/laravel/framework/pull/24168 &nbsp;</span>](http://github.com/laravel/framework/pull/24168)</div>
 					<div class="stl_01 stl_07" style="left:19.2312em;top: 58.4546em; "><span class="stl_11 stl_09 stl_48" style="word-spacing:0.0123em;">Laravel 框架修复主键整数溢出 &nbsp;</span></div>
-					<div class="stl_01 stl_07" style="left:19.2312em;top: 61.3892em; "><a href="http://github.com/DavidNineRoc/monday-shop" target="_blank"><span class="stl_46 stl_09 stl_49">github.com/DavidNineRoc/monday-shop &nbsp;</span></a></div>
+					<div class="stl_01 stl_07" style="left:19.2312em;top: 61.3892em; ">[<span class="stl_46 stl_09 stl_49">github.com/DavidNineRoc/monday-shop &nbsp;</span>](http://github.com/DavidNineRoc/monday-shop)</div>
 					<div class="stl_01 stl_07" style="left:19.2312em;top: 62.7004em; "><span class="stl_11 stl_09 stl_50">星期一商城-Laravel5.5开发 &nbsp;</span></div>
 					<div class="stl_01 stl_07" style="left:4.4956em;top: 64.9482em; "><span class="stl_19 stl_09 stl_10">扫一扫查看我的简历 &nbsp;</span></div>
-					<div class="stl_01 stl_07" style="left:19.2312em;top: 65.6351em; "><a href="https://github.com/DavidNineRoc/qrcodeplus" target="_blank"><span class="stl_46 stl_09 stl_51">https://github.com/DavidNineRoc/qrcodeplus &nbsp;</span></a></div>
+					<div class="stl_01 stl_07" style="left:19.2312em;top: 65.6351em; ">[<span class="stl_46 stl_09 stl_51">https://github.com/DavidNineRoc/qrcodeplus &nbsp;</span>](https://github.com/DavidNineRoc/qrcodeplus)</div>
 					<div class="stl_01 stl_07" style="left:19.2312em;top: 66.9463em; "><span class="stl_11 stl_09 stl_10">彩色二维码 &nbsp;</span></div>
 				</div>
 			</div>
 		</div>
-	</body>
-</html>
