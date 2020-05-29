@@ -15,8 +15,7 @@
 - Web框架：Laravel/Gin
 - 数据库相关：MySQL/Redis
 - 消息中间件: Kafka
-- 版本管理：Git
-- 单元测试：PHPUnit
+- 其他：Git/Docker/PHPUnit
 
 ## 开源项目
 - [https://github.com/seth-shi/monday-shop](https://github.com/seth-shi/monday-shop)
