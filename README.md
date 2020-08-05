@@ -43,6 +43,13 @@
 
 ## 西安运动数字 （ 2019年10月 ~ 至今 ）
 ### 儿歌点点启蒙版(TODO)
+* 工作内容
+    * `API + Admin`使用`PHP/Laravel6 + MySQL/Elasticsearch/Laradock`
+    * `Log`系统使用`Golang/Gin  Kafka/MongoDB/ClickHouse`
+    * 大数据的收集,订阅消息系统消费日志,海量数据广告统计
+* 成长
+    * 项目运营要求的搜索算法是,根据日期,浏览量,排序值进行一定的比例得分排序
+    * 学习了使用`Elasticsearch`的得分衰减函数控制权重值排序
 ### 千千简笔画(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`)
 * 工作内容
     * 旧项目使用的是`Druapl`开发
