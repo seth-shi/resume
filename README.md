@@ -48,8 +48,9 @@
     * `Log`系统使用`Golang/Gin  Kafka/MongoDB/ClickHouse`
     * 大数据的收集,订阅消息系统消费日志,海量数据广告统计
 * 成长
-    * 项目运营要求的搜索算法是,根据日期,浏览量,排序值进行一定的比例得分排序
-    * 学习了使用`Elasticsearch`的得分衰减函数控制权重值排序
+    * 因实时日志量巨大, 使用`PHP`压力巨大,使用`Golang`构建日志服务模块
+    * 开始初步使用`Golang`构建离线统计服务模块
+    * 大量日志数据存储到`MongoDB`
 ### 千千简笔画(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`)
 * 工作内容
     * 旧项目使用的是`Druapl`开发
