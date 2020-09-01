@@ -46,6 +46,7 @@
 * 工作内容
     * `API + Admin`使用`PHP/Laravel6 + MySQL/Elasticsearch/Laradock`
     * `Log`系统使用`Golang/Gin  Kafka/MongoDB/ClickHouse`
+    * 项目管理使用`JIRA`, `API`文档使用[yapi](https://github.com/YMFE/yapi), 代码代理是用`Git`
     * 大数据的收集,订阅消息系统消费日志,海量数据广告统计
 * 成长
     * 因实时日志量巨大, 使用`PHP`压力巨大,使用`Golang`构建日志服务模块
