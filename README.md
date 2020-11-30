@@ -11,11 +11,11 @@
 - 邮箱：1033404553@qq.com
 
 # 技能清单
-- Web开发：PHP/Golang
-- Web框架：Laravel/Gin
-- 数据库相关：MySQL/Redis
+- 编程语言：PHP / Golang / JavaScript
+- 语言框架：Laravel / Gin
+- 数据库相关：MySQL / Redis / MongoDB
 - 消息中间件: Kafka
-- 其他：Git/MongoDB/Docker/PHPUnit
+- 其他：Docker / Elasticsearch / Git
 
 ## 开源项目
 - [https://github.com/seth-shi/monday-shop](https://github.com/seth-shi/monday-shop)
@@ -23,10 +23,13 @@
     - `Github`获得`400+ star`
     - 一个网上在线商城、综合网上购物平台
     - 个人商城项目,本是毕业设计项目,工作后有时间也会维护.
-- [https://github.com/seth-shi/file-sync-server](https://github.com/seth-shi/file-sync-server)：
-- [https://github.com/seth-shi/file-sync-client](https://github.com/seth-shi/file-sync-client): 
-    - `Golang + React-Native` 
-    - 手机文件备份同步,配合使用
+- [https://github.com/seth-shi/qrcodeplus](https://github.com/seth-shi/qrcodeplus)
+    - 彩色, 背景图片二维码
+    - 读写二维码的每一个色块然后替换成想要的色块
+- [https://github.com/seth-shi/easy-extends](https://github.com/seth-shi/easy-extends)
+    - 快速安装`PHP`扩展
+    - 初学者使用`Win`系统安装`PHP`扩展相对麻烦
+    - 下载`PECL`对应系统版本的`dll`,然后修改配置文件
 
 
 
@@ -45,13 +48,13 @@
 ### 儿歌点点启蒙版(TODO)
 * 工作内容
     * `API + Admin`使用`PHP/Laravel6 + MySQL/Elasticsearch/Laradock`
-    * `Log`系统使用`Golang/Gin  Kafka/MongoDB/ClickHouse`
-    * 项目管理使用`JIRA`, `API`文档使用[yapi](https://github.com/YMFE/yapi), 代码代理是用`Git`
-    * 大数据的收集,订阅消息系统消费日志,海量数据广告统计
+    * `Log`系统使用`Golang/Gin  Kafka/MongoDB`
+    * 项目管理使用`JIRA`, `API`文档使用[yapi](https://github.com/YMFE/yapi), 代码管理使用`Git`
+    * 大数据的收集,订阅消息系统消费日志,用户行为广告统计
 * 成长
-    * 因实时日志量巨大, 使用`PHP`压力巨大,使用`Golang`构建日志服务模块
-    * 开始初步使用`Golang`构建离线统计服务模块
-    * 大量日志数据存储到`MongoDB`
+    * 因实时日志量巨大, 使用`PHP`压力巨大,改为`Golang`构建日志服务模块
+    * 其它一些离线计算服务也是用`Golang`构建
+    * 日志数据存储到`MongoDB`
 ### 千千简笔画(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`)
 * 工作内容
     * 旧项目使用的是`Druapl`开发
