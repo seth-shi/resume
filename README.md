@@ -44,7 +44,7 @@
 
 # 工作经历
 
-## 西安运动数字 （ 2019年10月 ~ 至今 ）
+## 西安萌叶网络 / 西安运动数字 （ 2019年10月 ~ 至今 ）
 ### 儿歌点点启蒙版(TODO)
 * 工作内容
     * `API + Admin`使用`PHP/Laravel6 + MySQL/Elasticsearch/Laradock`
