@@ -8,7 +8,7 @@
 
 # 联系方式
 - 手机：15678904596
-- 邮箱：1033404553@qq.com
+- 邮箱：1033404553@qq.com / seth9shi@gmail.com
 
 # 技能清单
 - 编程语言：PHP / Golang / JavaScript
