@@ -1,26 +1,25 @@
 # 个人信息
- - 施国鹏`seth-shi` / 男 / 1996 
- - 专科 / 广西机电职业技术学院 
+ - 施国鹏 (`seth-shi`)  / 男 / 1996 
+ - 大专 / 广西机电职业技术学院 
  - 工作年限：(2017-12 ~ 至今)
  - Github：[https://github.com/seth-shi](https://github.com/seth-shi)
  - 技术博客： [http://www.shiguopeng.cn](http://www.shiguopeng.cn)
- - 期望职位：PHP 工程师，Golang 工程师
+ - 期望职位：`PHP`工程师 / `Golang`工程师
 
-# 联系方式
 - 手机：15678904596
 - 邮箱：1033404553@qq.com / seth9shi@gmail.com
 
 # 技能清单
-- 编程语言：PHP / Golang / JavaScript
-- 语言框架：Laravel / Gin
-- 数据库相关：MySQL / Redis / MongoDB
-- 消息中间件: Kafka
-- 其他：Docker / Elasticsearch / Git
+- 编程语言：`PHP` / `Golang` / `JavaScript`
+- 语言框架：`Laravel` / `Gin`
+- 数据库相关：`MySQL` / `Redis`/ `MongoDB` / `Clickhouse`
+- 消息中间件: `Kafka`
+- 其他：`Docker` / `Elasticsearch` / `Git`
 
 ## 开源项目
 - [https://github.com/seth-shi/monday-shop](https://github.com/seth-shi/monday-shop)
-    - `PHP + Laravel5.5`
-    - `Github`获得`400+ star`
+    - `PHP` + `Laravel5.5` + `MySQL`
+    - `Github`获得`500+ star`
     - 一个网上在线商城、综合网上购物平台
     - 个人商城项目,本是毕业设计项目,工作后有时间也会维护.
 - [https://github.com/seth-shi/qrcodeplus](https://github.com/seth-shi/qrcodeplus)
@@ -46,38 +45,56 @@
 
 ## 西安萌叶网络 / 西安运动数字 （ 2019年10月 ~ 至今 ）
 ### 儿歌点点启蒙版(TODO)
-* 工作内容
-    * `API + Admin`使用`PHP/Laravel6 + MySQL/Elasticsearch/Laradock`
-    * `Log`系统使用`Golang/Gin  Kafka/MongoDB`
-    * 项目管理使用`JIRA`, `API`文档使用[yapi](https://github.com/YMFE/yapi), 代码管理使用`Git`
-    * 大数据的收集,订阅消息系统消费日志,用户行为广告统计
+
 * 成长
-    * 因实时日志量巨大, 使用`PHP`压力巨大,改为`Golang`构建日志服务模块
-    * 其它一些离线计算服务也是用`Golang`构建
-    * 日志数据存储到`MongoDB`
-### 千千简笔画(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`)
-* 工作内容
-    * 旧项目使用的是`Druapl`开发
-    * 用户端页面完全重构开发
-    * 改用前后端分离,负责`API`开发
+  * **投放归因**, 因投放之后无法追踪到用户留存,播放. 所以对接了各大广告平台,媒体进行归因.
+    1. 用户点击广告页面
+    2. 广告平台发送请求
+    3. 用户打开应用后进行归因匹配广告平台发送的数据
+    4. 归因成功将会在应用的首页精准推送广告词的内容
+  * 因实时日志量巨大, 使用`PHP`构建的日志服务压力巨大,改为`Golang`构建日志服务模块(学习了`Golang`)
+  * 其它一些离线计算服务也是用`Golang`构建
+  * 用户行为日志, 广告日志数据存储到`MongoDB`
+  * 广告归因数据存储到`Clickhouse`,配合*Superset*数据报表展示
+
+* 服务架构
+    * `API + Admin`
+      * `PHP` + `Laravel6`
+      * `MySQL` + `Redis` + `Elasticsearch` + `Clickhouse`
+      * `Docker` + `Laradock`
+    * `Log`服务
+      * `Golang` + `Gin `
+      *  `Kafka` + `MongoDB`
+    * 项目管理
+      * `JIRA`, 
+      * `API`文档使用[yapi](https://github.com/YMFE/yapi), 
+      * 代码管理使用`Git`
+### 千千简笔画
 * 成长
     * 项目运营要求的搜索算法是,根据日期,浏览量,排序值进行一定的比例得分排序
     * 学习了使用`Elasticsearch`的得分衰减函数控制权重值排序
-### 樱桃少儿英语视频后台(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`+`Kafka`)
-*  工作内容
-    * 后台和`API`的开发
-    * 负责后台的重构和日志的写入
+* 服务架构
+    * `API + Admin`
+      * `PHP` + `Laravel6`
+      * `MySQL` + `Redis` + `Elasticsearch`
+### 樱桃少儿英语视频后台
 * 成长
     *  项目日志数据太多使用 redis 简单的生产消费已经不好处理
     * 大数据同事建议我直接上`kafka`, 然后在此项目中学习了`kafka`的使用,高阶消费.
+*  服务架构
+    * `API + Admin`
+      * `PHP` + `Laravel5`
+      * `MySQL` + `Redis` + `Elasticsearch`
+      * `Kafka`
 
 ## 南京赤兔网络科技有限公司 （ 2017年12月 ~ 2019年6月 ）
-### “交汇点”移动新闻客户端(`Laravel`+`MySQL`+`Reids`+`Elasticsearch`)
-*  工作内容
-    * 负责`API`开发
+### “交汇点”移动新闻客户端
 * 成长
     *  第一份工作,接触到了工作环境中的代码. 
-    
+*  服务架构
+    * `API`
+      * `PHP` + `Laravel5`
+      * `MySQL` + `Redis` + `Elasticsearch`
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
