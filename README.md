@@ -29,9 +29,16 @@
     - 快速安装`PHP`扩展
     - 初学者使用`Win`系统安装`PHP`扩展相对麻烦
     - 下载`PECL`对应系统版本的`dll`,然后修改配置文件
-
-
-
+## 开源项目贡献
+- [https://github.com/laravel/framework](https://github.com/laravel/framework) `Laravel 框架`
+    - [https://github.com/laravel/framework/pull/24168](https://github.com/laravel/framework/pull/24168) `修复数据库主键字符串数字整型溢出限制`
+- [https://github.com/z-song/laravel-admin](https://github.com/z-song/laravel-admin) `快速构建功能齐全的管理后台`
+    - [https://github.com/z-song/laravel-admin/pull/2613](https://github.com/z-song/laravel-admin/pull/2613) `自定义登录验证`
+    - [https://github.com/z-song/laravel-admin/pull/2680](https://github.com/z-song/laravel-admin/pull/2680) `增加过滤功能`
+- [https://github.com/cosmtrek/air](https://github.com/cosmtrek/air) `Go应用程序的实时重载`
+    - [https://github.com/cosmtrek/air/pull/74](https://github.com/cosmtrek/air/pull/74) `windows 下可执行文件配置的支持`
+- [https://github.com/jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) `快速构建出一个功能完善的高颜值后台系统`
+    - [https://github.com/jqhph/dcat-admin/pull/1268](https://github.com/jqhph/dcat-admin/pull/1268) `Fix: 多应用后台登录后跳转`
 ## 技术文章
 - [Laravel 开发 RESTful API 的一些心得](https://learnku.com/articles/8380/some-of-the-experiences-of-laravel-developing-restful-api)
     - 获得`laravel-china`的`API`开发精选文章
