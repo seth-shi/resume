@@ -16,7 +16,11 @@
 - 消息中间件: `Kafka`
 - 其他：`Docker` / `Elasticsearch` / `Git`
 
-## 开源项目
+## 项目
+- [https://www.youmengji.zone/](https://www.youmengji.zone/)
+    - 有梦记-有梦记是一款记录梦境的App，它能快速的记录你的梦境，并且提供日程化的方式展示你的梦境，让你一目了然你的过往。记住那些不愿忘记的！
+    - V2 版本重构为(`Dart/Flutter`) + (`Go/GoFrame`)
+    - V1 技术栈为(`Javascript/React Native`) + (`PHP/Laravel`)
 - [https://github.com/seth-shi/monday-shop](https://github.com/seth-shi/monday-shop)
     - `PHP` + `Laravel5.5` + `MySQL`
     - `Github`获得`500+ star`
