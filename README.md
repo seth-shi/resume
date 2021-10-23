@@ -6,7 +6,6 @@
  - 技术博客： [http://www.shiguopeng.cn](http://www.shiguopeng.cn)
  - 期望职位：`PHP`工程师 / `Golang`工程师
 
-- 手机：15678904596
 - 邮箱：1033404553@qq.com / seth9shi@gmail.com
 
 # 技能清单
